@@ -1,0 +1,16 @@
+{
+    "produtos": [
+        {
+            "_id": "1",
+            "nome": "Boné da nike",
+            "image_url": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSBUu9C_pCVn13EvKeeFIJsAk9Xf4_JbjnYVP8NRuaO2qSwcbtKz09tufASsHUCI-GMKomeQZGnMmQSxSufj3keV15DOQG8EHrjZHz27D7dcxA8Ww_dryzC&usqp=CAE",
+            "valor": "20.00"
+        },
+        {
+            "id": "2",
+            "nome": "Camiseta da puma",
+            "image_url":"https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcTzpHQ0y5fXnT5SfnSZ6iCSUXeM_xjpDDswnT7uPv0JI2M0ypo8KKB8_vlyy0tlZANITSsHTr2bZFxiRmpGWI9FlZdnDG6Ft06xf_HY9cIb&usqp=CAc",
+            "valor": "40.00"
+        }
+    ]
+}
